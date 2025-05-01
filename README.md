@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Atif Ali 
-- 👀 Technical skills with c++, Java, JavaSctipt, HTML, UML, SQL
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning software development at Seneca
-- 📫 How to reach me atifhammud@outlook.com
-- 
+- SWE, Red Hat
+- 📫 How to reach me atifhammud@gmail.com
 
 <!---
 aali309/aali309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
